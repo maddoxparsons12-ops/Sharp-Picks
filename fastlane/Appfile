@@ -1,0 +1,3 @@
+app_identifier("sharp-picks.org") # Bundle id set per user request
+apple_id("you@example.com") # Placeholder for Apple ID - filled by repo owner
+team_id("YOUR_TEAM_ID") # Placeholder for Apple Developer Team ID
